@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/CategoryProduct.csproj": {}
+  },
+  "projects": {
+    "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/BusinessLayer.csproj",
+        "packagesPath": "/Users/melikeozdogan/.nuget/packages/",
+        "outputPath": "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/melikeozdogan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/CategoryProduct.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/CategoryProduct.csproj",
+        "projectName": "CategoryProduct",
+        "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/CategoryProduct.csproj",
+        "packagesPath": "/Users/melikeozdogan/.nuget/packages/",
+        "outputPath": "/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/melikeozdogan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/BusinessLayer.csproj": {
+                "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/BusinessLayer/BusinessLayer.csproj"
+              },
+              "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj": {
+                "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj"
+              },
+              "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/DataAccessLayer.csproj": {
+                "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Antiforgery": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj",
+        "projectName": "EntityLayer",
+        "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj",
+        "packagesPath": "/Users/melikeozdogan/.nuget/packages/",
+        "outputPath": "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/melikeozdogan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/DataAccessLayer.csproj",
+        "packagesPath": "/Users/melikeozdogan/.nuget/packages/",
+        "outputPath": "/Users/melikeozdogan/Desktop/CategoryProduct/DataAccessLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/melikeozdogan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj": {
+                "projectPath": "/Users/melikeozdogan/Desktop/CategoryProduct/ClassLibrary1/EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

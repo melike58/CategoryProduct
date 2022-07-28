@@ -1,0 +1,291 @@
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/appsettings.Development.json
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/appsettings.json
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.exe
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.deps.json
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.runtimeconfig.json
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.runtimeconfig.dev.json
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ref/CategoryProduct.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.Views.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.Views.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Google.Protobuf.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Humanizer.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/MySql.Data.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ZstdNet.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Newtonsoft.Json.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Convention.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Hosting.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Runtime.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.TypedParts.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.AssemblyReference.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.AssemblyInfoInputs.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.AssemblyInfo.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.CoreCompileInputs.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorAssemblyInfo.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorAssemblyInfo.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/staticwebassets/CategoryProduct.StaticWebAssets.Manifest.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/staticwebassets/CategoryProduct.StaticWebAssets.xml
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/scopedcss/bundle/CategoryProduct.styles.css
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.TagHelpers.input.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.TagHelpers.output.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorCoreGenerate.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorTargetAssemblyInfo.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorTargetAssemblyInfo.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.Views.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.CopyComplete
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/ref/CategoryProduct.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.genruntimeconfig.cache
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BusinessLayer.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/DataAccessLayer.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/EntityLayer.dll
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BusinessLayer.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/EntityLayer.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/bin/Debug/net5.0/DataAccessLayer.pdb
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/EShopLayout.cshtml.g.cs
+D:/Yazılım Uygulamaları/C#/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/appsettings.Development.json
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/appsettings.json
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.StaticWebAssets.xml
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.deps.json
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.runtimeconfig.json
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.runtimeconfig.dev.json
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ref/CategoryProduct.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.Views.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/CategoryProduct.Views.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Humanizer.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/MySql.Data.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ZstdNet.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BusinessLayer.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/DataAccessLayer.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/EntityLayer.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/BusinessLayer.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/EntityLayer.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/bin/Debug/net5.0/DataAccessLayer.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.AssemblyReference.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.AssemblyInfoInputs.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.AssemblyInfo.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.CoreCompileInputs.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.MvcApplicationPartsAssemblyInfo.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorAssemblyInfo.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorAssemblyInfo.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/scopedcss/bundle/CategoryProduct.styles.css
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/staticwebassets/CategoryProduct.StaticWebAssets.Manifest.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.TagHelpers.input.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.TagHelpers.output.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorCoreGenerate.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Product/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/EShopLayout.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorTargetAssemblyInfo.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.RazorTargetAssemblyInfo.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.Views.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.csproj.CopyComplete
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/ref/CategoryProduct.dll
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.pdb
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/CategoryProduct.genruntimeconfig.cache
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/_AdminLayout.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/Components/CategoryGetList/Default.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/Components/ProductDetailPage/Default.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Shared/Components/ProductListByCategory/Default.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Category/CategoryAdd.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Category/CategoryUpdate.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Category/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/ProductAdd.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Areas/Admin/Views/Product/ProductUpdate.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/KayıtOl/Index.cshtml.g.cs
+/Users/melikeozdogan/Desktop/CategoryProduct/CategoryProduct/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs

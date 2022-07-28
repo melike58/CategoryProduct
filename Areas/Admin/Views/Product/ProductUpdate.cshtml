@@ -1,0 +1,29 @@
+﻿@model EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "ProductUpdate";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Ürün Güncelleme Sayfası</h1>
+
+    <form class="form-group" action="ProductUpdate" asp-controller="Product" method="post" enctype="multipart/form-data">
+        @Html.Label("Ürün Id")
+        @Html.TextBoxFor(x => x.ProductId, new { @class = "form-control" })
+
+        @Html.Label("Ürün Adı")
+        @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+
+
+        @Html.Label("Ürün Fiyatı")
+        @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+
+
+        @Html.Label("Ürün Açıklaması")
+        @Html.TextBoxFor(x => x.ProductDescription, new { @class = "form-control" })
+
+
+        @Html.Label("Ürün Kategorisi")
+        @Html.TextBoxFor(x => x.Category.CategoryName, new { @class = "form-control" })
+
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+        </form>
